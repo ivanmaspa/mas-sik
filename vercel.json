@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "mas-sik",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
